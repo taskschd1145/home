@@ -47,6 +47,7 @@ import { Link, Blog, CompactDisc, Cloud, Compass, Book, Fire, LaptopCode } from 
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
 import { Pagination, Mousewheel } from "swiper/modules";
+import { CodeRain } from /public/images/icon/CodeRain.png
 import siteLinks from "@/assets/siteLinks.json";
 
 const store = mainStore();
@@ -70,6 +71,7 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  RainCode,
 };
 
 // 链接跳转
