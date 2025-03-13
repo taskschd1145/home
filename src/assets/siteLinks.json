@@ -2,16 +2,16 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.taskschd.us.kg/"
+    "link": "https://blog.taskschd.top"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.taskschd.us.kg/"
+    "link": "https://status.taskschd.top"
   },
   {
     "icon": "/images/icon/CodeRain.png",
     "name": "CodeRain",
-    "link": "https://coderain.taskschd.us.kg/"
+    "link": "https://coderain.taskschd.top"
   }
 ]
